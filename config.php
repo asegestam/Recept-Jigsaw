@@ -14,10 +14,10 @@ return [
         'recipes' => [
             'author' => 'Albin Segestam', // Default author, if not provided in a post
             'sort' => '-date',
-            'path' => 'blog/{filename}',
+            'path' => 'recipes/{filename}',
         ],
         'categories' => [
-            'path' => '/blog/categories/{filename}',
+            'path' => '/recipes/categories/{filename}',
             'recipes' => function ($page, $allrecipes) {
                 return $allrecipes->filter(function ($recipe) use ($page) {
                     return $recipe->categories ? in_array($page->getFilename(), $recipe->categories, true) : false;

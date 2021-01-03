@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Segestams Recept</title>
-    <link href="https://my-jigsaw-blog.com/recipes" />
-    <link type="application/atom+xml" rel="self" href="https://my-jigsaw-blog.com/recipes/feed.atom" />
-    <updated>2021-01-03T17:00:33+01:00</updated>
-    <id>https://my-jigsaw-blog.com/recipes/feed.atom</id>
+    <link href="https://asegestam.github.io/recipes" />
+    <link type="application/atom+xml" rel="self" href="https://asegestam.github.io/recipes/feed.atom" />
+    <updated>2021-01-03T17:11:25+01:00</updated>
+    <id>https://asegestam.github.io/recipes/feed.atom</id>
     <author>
         <name>Author Name</name>
     </author>
                 <entry>
-    <id>https://my-jigsaw-blog.com/recipes/test2</id>
-    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/recipes/test2" />
+    <id>https://asegestam.github.io/recipes/test2</id>
+    <link type="text/html" rel="alternate" href="https://asegestam.github.io/recipes/test2" />
     <title>Test Two</title>
     <published>2020-01-03T01:00:00+01:00</published>
     <updated>2020-01-03T01:00:00+01:00</updated>
@@ -23,8 +23,8 @@
         <p>Test recept</p>    ]]>
     </content>
 </entry>            <entry>
-    <id>https://my-jigsaw-blog.com/recipes/test</id>
-    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/recipes/test" />
+    <id>https://asegestam.github.io/recipes/test</id>
+    <link type="text/html" rel="alternate" href="https://asegestam.github.io/recipes/test" />
     <title>Test Featured</title>
     <published>2020-01-03T01:00:00+01:00</published>
     <updated>2020-01-03T01:00:00+01:00</updated>

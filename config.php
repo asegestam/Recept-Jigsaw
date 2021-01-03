@@ -7,7 +7,7 @@ return [
     'production' => false,
     'siteName' => 'Segestams Recept',
     'siteDescription' => 'Generate an elegant blog with Jigsaw',
-    'siteAuthor' => 'Author Name',
+    'siteAuthor' => 'Albin Segestam',
 
     // collections
     'collections' => [

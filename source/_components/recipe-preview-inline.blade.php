@@ -9,5 +9,5 @@
 
     <p class="mb-4 mt-0">{!! $recipe->getExcerpt(200) !!}</p>
 
-    <a href="{{ $recipe->getUrl() }}" title="Read more - {{ $recipe->title }}" class="uppercase font-semibold tracking-wide mb-2">Read</a>
+    <a href="{{ $recipe->getUrl() }}" title="Read more - {{ $recipe->title }}" class="uppercase font-semibold tracking-wide mb-2">Läs</a>
 </div>

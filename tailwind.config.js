@@ -61,7 +61,9 @@ module.exports = {
     width: ['responsive', 'focus']
   },
   plugins: [
-    function({ addUtilities }) {
+    function ({
+      addUtilities
+    }) {
       const newUtilities = {
         '.transition-fast': {
           transition: 'all .2s ease-out',

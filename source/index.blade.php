@@ -20,11 +20,11 @@
     <p class="mt-0 mb-4">{!! $featuredPost->getExcerpt() !!}</p>
 
     <a href="{{ $featuredPost->getUrl() }}" title="Read - {{ $featuredPost->title }}" class="uppercase tracking-wide mb-4">
-        Read
+        Läs
     </a>
 </div>
 
-@if (! $loop->last)
+@if (!$loop->last)
 <hr class="border-b my-6">
 @endif
 @endforeach
@@ -36,13 +36,13 @@
         @include('_components.recipe-preview-inline')
     </div>
 
-    @if (! $loop->last)
+    @if (!$loop->last)
     <hr class="block md:hidden w-full border-b mt-2 mb-6">
     @endif
     @endforeach
 </div>
 
-@if (! $loop->last)
+@if (!$loop->last)
 <hr class="w-full border-b mt-2 mb-6">
 @endif
 @endforeach

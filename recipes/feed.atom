@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Segestams Recept</title>
+    <link href="https://my-jigsaw-blog.com/recipes" />
+    <link type="application/atom+xml" rel="self" href="https://my-jigsaw-blog.com/recipes/feed.atom" />
+    <updated>2021-01-03T16:49:25+01:00</updated>
+    <id>https://my-jigsaw-blog.com/recipes/feed.atom</id>
+    <author>
+        <name>Author Name</name>
+    </author>
+                <entry>
+    <id>https://my-jigsaw-blog.com/recipes/test2</id>
+    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/recipes/test2" />
+    <title>Test Two</title>
+    <published>2020-01-03T01:00:00+01:00</published>
+    <updated>2020-01-03T01:00:00+01:00</updated>
+    <author>
+        <name>Albin Segestam</name>
+    </author>
+    <summary type="html">Test recept...</summary>
+    <content type="html">
+        <![CDATA[
+        <p>Test recept</p>    ]]>
+    </content>
+</entry>            <entry>
+    <id>https://my-jigsaw-blog.com/recipes/test</id>
+    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/recipes/test" />
+    <title>Test Featured</title>
+    <published>2020-01-03T01:00:00+01:00</published>
+    <updated>2020-01-03T01:00:00+01:00</updated>
+    <author>
+        <name>Albin Segestam</name>
+    </author>
+    <summary type="html">Test Recept...</summary>
+    <content type="html">
+        <![CDATA[
+        <p>Test Recept</p>    ]]>
+    </content>
+</entry>    </feed>

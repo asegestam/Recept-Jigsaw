@@ -11,16 +11,16 @@ return [
 
     // collections
     'collections' => [
-        'posts' => [
-            'author' => 'Author Name', // Default author, if not provided in a post
+        'recipes' => [
+            'author' => 'Albin Segestam', // Default author, if not provided in a post
             'sort' => '-date',
             'path' => 'blog/{filename}',
         ],
         'categories' => [
             'path' => '/blog/categories/{filename}',
-            'posts' => function ($page, $allPosts) {
-                return $allPosts->filter(function ($post) use ($page) {
-                    return $post->categories ? in_array($page->getFilename(), $post->categories, true) : false;
+            'recipes' => function ($page, $allrecipes) {
+                return $allrecipes->filter(function ($recipe) use ($page) {
+                    return $recipe->categories ? in_array($page->getFilename(), $recipe->categories, true) : false;
                 });
             },
         ],

@@ -6,7 +6,7 @@ date: 2020-01-03
 description: Test desc
 cover_image: /assets/img/pizza.jpg
 categories: [pizza]
-featured: true
+featured: false
 ---
 
 ## Vero caput corpora ursaque latebras sum

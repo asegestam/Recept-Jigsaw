@@ -3,12 +3,103 @@
     <title>Segestams Recept</title>
     <link href="/recipes" />
     <link type="application/atom+xml" rel="self" href="/recipes/feed.atom" />
-    <updated>2021-01-03T19:55:22+01:00</updated>
+    <updated>2021-01-06T17:31:02+01:00</updated>
     <id>/recipes/feed.atom</id>
     <author>
         <name>Albin Segestam</name>
     </author>
                 <entry>
+    <id>/recipes/bolognese</id>
+    <link type="text/html" rel="alternate" href="/recipes/bolognese" />
+    <title>Bolognese</title>
+    <published>2020-01-06T01:00:00+01:00</published>
+    <updated>2020-01-06T01:00:00+01:00</updated>
+    <author>
+        <name>Albin Segestam</name>
+    </author>
+    <summary type="html">800g - 1kg blandfärs
+150 g selleristjälkar runt 3-4 stjälkar
+150 g gul lök, beroende på storlek med runt 1-2 st
+150 g morötter
+2 vitlöksklyftor
+1-2 lagerblad
+400 g krossade tomater eller hela tomater i burk, helst San Marzano tomater
+2-3 dl torrt......</summary>
+    <content type="html">
+        <![CDATA[
+        <h4>Inspirerat från original recept från <a href="https://www.seriouseats.com/recipes/2014/12/the-best-slow-cooked-bolognese-sauce-recipe.html">Serious Eats</a> finns också i <a href="https://www.youtube.com/watch?v=MS_IdAevyMY">video format</a>.</h4>
+<hr />
+<h3>Ingredienser</h3>
+<ul>
+<li><strong>800g - 1kg</strong> blandfärs</li>
+<li><strong>150 g</strong> selleristjälkar runt 3-4 stjälkar</li>
+<li><strong>150 g</strong> gul lök, beroende på storlek med runt 1-2 st</li>
+<li><strong>150 g</strong> morötter</li>
+<li><strong>2</strong> vitlöksklyftor</li>
+<li><strong>1-2</strong> lagerblad</li>
+<li><strong>400 g</strong> krossade tomater eller hela tomater i burk, helst San Marzano tomater</li>
+<li><strong>2-3 dl</strong> torrt vitt vin</li>
+<li><strong>2-3 dl</strong> kycklingbuljong</li>
+<li><strong>1 dl</strong> mjölk, 1.5% fetthalt eller högre</li>
+<li><strong>1-2 dl</strong> grädde</li>
+<li><strong>1 msk</strong> tomatpure, gärna dubbelkoncentrerad</li>
+<li>Rikligt med parmesan</li>
+<li>Persilja</li>
+<li>Timjan eller rosmarin eller både och</li>
+<li><strong>1-2 msk</strong> Fisksås för umami  *<em>frivilligt</em></li>
+<li><strong>2 msk</strong> Miso för umami *<em>frivilligt</em></li>
+<li>Olivolja samt en klick smör för stekning</li>
+<li>Valfri torr pasta, exempelvis pappardelle, penne funkar fint</li>
+</ul>
+<hr />
+<h2>Gör så här</h2>
+<ol>
+<li>
+<p>Förvärm grytan på medelhög värme samt sätt ugnen på 175 grader medans du <strong>förbereder</strong>.</p>
+<blockquote>
+<p>Använd gärna en tjockbottnad gryta</p>
+</blockquote>
+</li>
+<li>
+<p>Finhacka gul lök, selleri, morötter samt vitlöken.</p>
+</li>
+<li>
+<p>Stek blandfärsen i olivolja till den är brynt och har <em>rejält</em> med färg och lägg åt sidan i en skål.</p>
+<blockquote>
+<p>Gör detta gärna i flera omgångar beroende på grytans storlek, vill inte ha för mycket färs i samtidigt</p>
+</blockquote>
+</li>
+<li>
+<p>Lägg i en klick smör och stek löken, selleri samt morötterna. Detta skall inte få färg utan bara så att det mjuknar. Lägg i tomatpurén i mitten av pannan/grytan och låt den stekas en stund innan du blandar det med grönsakerna.</p>
+</li>
+<li>
+<p>Lägg till timjan/rosmarin och låt steka med en stund.</p>
+</li>
+<li>
+<p>Häll i vinet, lägg till lagerbladen och låt reducera, runt 4-5 min.</p>
+</li>
+<li>
+<p>Lägg tillbaka den stekta färsen i grytan, häll i tomaterna, kycklingbuljongen samt mjölken. Salta och peppra försiktigt.</p>
+</li>
+<li>
+<p>Höj värmen tills såsen börjar puttra, sätt den sedan i ugnen utan lock. Tillaga i minst 2 timmar upp till 4 timmar, rör om och skrapa ner sidorna av grytan lite då och då.</p>
+</li>
+<li>
+<p>Ta ut grytan ur ugnen och sätt på spisen igen. Ta bort överflödigt fett som samlats på ytan och få såsen att puttra. </p>
+</li>
+<li>
+<p>Lägg till grädden, parmesan fisksåsen samt hackad persilja och rör om tills köttfärsen har gått ihop med grädden. Smaka av och tillsätt mer salt, peppar och parmesan vid behov.</p>
+</li>
+<li>
+<p>Addera gärna ett par slevar till den nykokta pastan så all pasta är täckt av lite köttfärssås.</p>
+</li>
+<li>
+<p>Servera med färskriven parmesan.</p>
+</li>
+</ol>
+<p><img src="https://lh3.googleusercontent.com/k81NWnYQA-coH4CF7P-Ah62ghWITrnYDO2LvFNTZ6KNt6Ey2VQWfREtJe7o1jc5sXf_mOk6D7GRXjqkm9S8jktl30ZQtmBJnwQ7l81ZvgbCb7akWKk3-2KAh1vOh5-1suKdz0P8uWuGUAMiNNok_hhm_Wif-lfyU6x68g1ySN0wYTxRBc1J9zX75rQaVApeLjjOJt-TyEdNnFGRpIhihMItrunc4yAbG7xxYQ1jpVumxFagH4zHlQN6mW8b01Es2M9VsF9qDbsbhhYHxJhkU0hyfetjwkQHaC05kzukVlSD-CF4t0z1xd7P--eVjw7yh_lWLKMRKiKkfN6gN8_N2VkuLyGjgN6oU5w9SCbkrOuLKZoIC2g0ZK3ekZuHRu9FAC0hhdSYyFUwhYHH2AxwVZMIXPBM-UMRvcK5C9Coc9Q0qJ_90wtE5xqBr23AwJY83aL7WK-X8zxgerVgJxbI4FZwDL2byipy-mbFR7MCjdTIqdF4H9FlOnnb32j9HzaRWysPprftPFpIUB84wpOT4fCpM9CdsACyZKiQDNdXjp29jZZqluWKHBOYnsyL2LLYDFnQHhwbJKiZ0outABK3VbnDdXwygFKDo6inkv7bMNl6C4pbbyoGX4X7nbjIZbzeUtkbxadxAeTr5lHjdlD4Suagnlh0aBcEtwmnH2GjqLcvNsG1xhP1M-rU=w1287-h1310-no?authuser=0" alt="Exempel" /></p>    ]]>
+    </content>
+</entry>            <entry>
     <id>/recipes/test2</id>
     <link type="text/html" rel="alternate" href="/recipes/test2" />
     <title>Pullo nunc neque</title>

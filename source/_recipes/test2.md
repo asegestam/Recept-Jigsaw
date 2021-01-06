@@ -5,7 +5,7 @@ title: Pullo nunc neque
 date: 2020-01-03
 description: Test desc
 cover_image: /assets/img/thai.jpg
-featured: true
+featured: false
 ---
 
 ## Manes nisi coepta ea erat quo nec
